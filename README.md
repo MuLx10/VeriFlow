@@ -17,7 +17,7 @@ $ python Main.py
 ```bash
 $ python Main.py
   Enter network configuration file name (eg.: file.txt):
-  > Topo1.txt
+  > Topo/Topo1.txt
   
   Number of ECs: 9
   Number of affected ECs: 9
